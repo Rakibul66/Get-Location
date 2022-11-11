@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetLocation</string>
+    <string name="google_maps_key">AIzaSyCmUzKl6Y4sccO8JezKffITFudcjDlNdxs</string>
+    <string name="show_location_picker">Show Location Picker</string>
+    <string name="address_hint">Enter Flat No / Floor / Landmark </string>
+    <string name="edittext_hint">"Click here to edit address location"</string>
+</resources>
